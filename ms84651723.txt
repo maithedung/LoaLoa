@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Tệp xác minh quyền sở hữu miền cho các Microsoft 365 – nằm ở gốc của trang web",
+  "Domain": "zeros-x.com",
+  "Id": "e4c46237-dc00-4850-a67d-b7e57b5d30c6"
+}
